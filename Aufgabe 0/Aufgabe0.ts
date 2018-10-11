@@ -8,6 +8,6 @@
         node.innerHTML += name;
         node.innerHTML += "!";
         console.log("Herzlich Willkommen",name,"!")
-       }
+       } 
         
 document.addEventListener('DOMContentLoaded',box);
