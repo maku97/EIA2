@@ -10,4 +10,4 @@
         console.log("Herzlich Willkommen",name,"!")
        } 
         
-document.addEventListener('DOMContentLoaded',box);
+document.addEventListener('DOMContentLoaded',box); 
